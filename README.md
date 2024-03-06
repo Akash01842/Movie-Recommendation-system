@@ -11,7 +11,7 @@ We are using K nearest neighbour in this system because of the effciency of this
 
 ### Repository Structure
 The repository contains the following files:
-   . ak.csv: dataset [Title: Movie Dataset with Title, Release Year, Runtime, Genre, and IMDB Rating]
+   . ak.csv: Movie Dataset with Title, Release Year, Runtime, Genre, and IMDB Rating columns
    . Movie_recommendation_system.ipynb : collab file
 
      Description:
